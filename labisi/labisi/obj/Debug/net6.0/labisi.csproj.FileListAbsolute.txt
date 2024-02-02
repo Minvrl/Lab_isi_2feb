@@ -1,0 +1,15 @@
+C:\Users\mulayimen\Desktop\daily lessons\labisi\labisi\bin\Debug\net6.0\labisi.exe
+C:\Users\mulayimen\Desktop\daily lessons\labisi\labisi\bin\Debug\net6.0\labisi.deps.json
+C:\Users\mulayimen\Desktop\daily lessons\labisi\labisi\bin\Debug\net6.0\labisi.runtimeconfig.json
+C:\Users\mulayimen\Desktop\daily lessons\labisi\labisi\bin\Debug\net6.0\labisi.dll
+C:\Users\mulayimen\Desktop\daily lessons\labisi\labisi\bin\Debug\net6.0\labisi.pdb
+C:\Users\mulayimen\Desktop\daily lessons\labisi\labisi\obj\Debug\net6.0\labisi.csproj.AssemblyReference.cache
+C:\Users\mulayimen\Desktop\daily lessons\labisi\labisi\obj\Debug\net6.0\labisi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mulayimen\Desktop\daily lessons\labisi\labisi\obj\Debug\net6.0\labisi.AssemblyInfoInputs.cache
+C:\Users\mulayimen\Desktop\daily lessons\labisi\labisi\obj\Debug\net6.0\labisi.AssemblyInfo.cs
+C:\Users\mulayimen\Desktop\daily lessons\labisi\labisi\obj\Debug\net6.0\labisi.csproj.CoreCompileInputs.cache
+C:\Users\mulayimen\Desktop\daily lessons\labisi\labisi\obj\Debug\net6.0\labisi.dll
+C:\Users\mulayimen\Desktop\daily lessons\labisi\labisi\obj\Debug\net6.0\refint\labisi.dll
+C:\Users\mulayimen\Desktop\daily lessons\labisi\labisi\obj\Debug\net6.0\labisi.pdb
+C:\Users\mulayimen\Desktop\daily lessons\labisi\labisi\obj\Debug\net6.0\labisi.genruntimeconfig.cache
+C:\Users\mulayimen\Desktop\daily lessons\labisi\labisi\obj\Debug\net6.0\ref\labisi.dll
